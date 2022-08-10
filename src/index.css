@@ -33,3 +33,7 @@ button {
   display: block;
   margin-right: auto;
 }
+
+input#name {
+  margin: 5px;
+}
